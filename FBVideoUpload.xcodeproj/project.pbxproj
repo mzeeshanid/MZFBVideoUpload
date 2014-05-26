@@ -484,11 +484,12 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
-					/Users/zeeshan/Desktop/FBVideoUpload,
+					$SRCROOT,
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "FBVideoUpload/FBVideoUpload-Prefix.pch";
 				INFOPLIST_FILE = "FBVideoUpload/FBVideoUpload-Info.plist";
+				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -501,11 +502,12 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
-					/Users/zeeshan/Desktop/FBVideoUpload,
+					$SRCROOT,
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "FBVideoUpload/FBVideoUpload-Prefix.pch";
 				INFOPLIST_FILE = "FBVideoUpload/FBVideoUpload-Info.plist";
+				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -572,6 +574,7 @@
 				B32D138518E6C9A300B426BB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B32D138618E6C9A300B426BB /* Build configuration list for PBXNativeTarget "FBVideoUploadTests" */ = {
 			isa = XCConfigurationList;
@@ -580,6 +583,7 @@
 				B32D138818E6C9A300B426BB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

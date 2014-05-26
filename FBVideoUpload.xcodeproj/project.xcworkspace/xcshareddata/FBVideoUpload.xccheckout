@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>346D9255-1E1C-4A4A-95A9-A9537A921694</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FBVideoUpload</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6518CE54-37AD-4E51-B2F1-672241F6BAF8</key>
+		<string>https://github.com/mzeeshanid/MZFBVideoUpload.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FBVideoUpload.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6518CE54-37AD-4E51-B2F1-672241F6BAF8</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/mzeeshanid/MZFBVideoUpload.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6518CE54-37AD-4E51-B2F1-672241F6BAF8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6518CE54-37AD-4E51-B2F1-672241F6BAF8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MZFBVideoUpload</string>
+		</dict>
+	</array>
+</dict>
+</plist>
